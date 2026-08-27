@@ -44,6 +44,10 @@ Each branch sends the appropriate client response, prepares an internal summary 
 
 The score considers budget, urgency, project-brief quality, service clarity, available business information, missing details, and risk flags. OpenAI analyzes the request, but the final qualification is controlled by deterministic rules for more predictable routing.
 
+## JSON File
+
+![JSON File](AI-Powered%20Client%20Intake,%20Qualification%20&%20Automated%20Onboarding%20System%20for%20Service%20Agencies.json)
+
 ## Who this template is for
 
 - AI automation agencies
