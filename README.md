@@ -1,6 +1,6 @@
 # AI-Powered Client Intake, Qualification and Onboarding with OpenAI, Supabase and Gmail
 
-![AI-powered client intake, qualification and onboarding workflow](./upload/AI-Powered%20Client%20Intake,%20Qualification%20&%20Automated%20Onboarding%20System%20for%20Service%20Agencies.png)
+![AI-powered client intake, qualification and onboarding workflow](AI-Powered%20Client%20Intake,%20Qualification%20&%20Automated%20Onboarding%20System%20for%20Service%20Agencies.png)
 
 > **Built by Muhammad Bilal — AI Automation Specialist**
 
